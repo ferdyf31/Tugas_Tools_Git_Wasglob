@@ -1,0 +1,10 @@
+
+print("Tugas Wasglob")
+
+Nama : Ferdy Fadriasnyah
+kelas : IT 44 GAB02
+NIM : 1303204050
+
+
+
+
